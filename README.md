@@ -1,6 +1,8 @@
 # count_people
+<img width="314" height="728" alt="Screenshot from 2025-08-12 10-42-46" src="https://github.com/user-attachments/assets/35bba503-e0f6-4bad-96e8-6e43c89f4ffd" />
+<img width="314" height="728" alt="Screenshot from 2025-08-12 10-42-37" src="https://github.com/user-attachments/assets/f20fddbc-28f3-4e1d-8cae-75966340c5b0" />
 
-A new Flutter project.
+
 
 ## Getting Started
 
